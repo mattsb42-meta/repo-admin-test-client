@@ -11,3 +11,4 @@ jobs:
             -   uses: mattsb42/repo-admin@init
                 with:
                     github-token: ${{secrets.ADMIN_TOKEN}}
+                    debug: true
