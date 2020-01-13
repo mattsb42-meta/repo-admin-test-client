@@ -8,7 +8,7 @@ collaborators:
 
 teams:
     -   name: bots
-        permission: triage
+        permission: write
 
 labels:
     -   name: foo
