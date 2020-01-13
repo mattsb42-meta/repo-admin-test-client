@@ -5,8 +5,6 @@ repository:
 collaborators:
     -   username: mattsb42-admin-bot
         permission: admin
-    -   username: mattsb42-bot
-        permission: admin
 
 labels:
     -   name: foo
