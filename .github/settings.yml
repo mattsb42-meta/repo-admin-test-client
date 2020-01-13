@@ -24,3 +24,10 @@ branches:
             required_status_checks: null
             enforce_admins: false
             restrictions: null
+    -   name: bar
+        protection:
+            required_pull_request_reviews:
+                required_pull_review_count: 1
+            required_status_checks: null
+            enforce_admins: false
+            restrictions: null
