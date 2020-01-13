@@ -12,7 +12,7 @@ labels:
         description: oh noes!
     -   name: bar
         color: "339933"
-        description: oh yes!
+        description: oh yeah!
 
 branches:
     -   name: foo
