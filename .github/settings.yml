@@ -6,7 +6,7 @@ collaborators:
     -   username: mattsb42-admin-bot
         permission: admin
     -   username: mattsb42-bot
-        permission: push
+        permission: admin
 
 labels:
     -   name: foo
