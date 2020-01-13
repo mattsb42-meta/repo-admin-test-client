@@ -6,10 +6,6 @@ collaborators:
     -   username: mattsb42-admin-bot
         permission: admin
 
-teams:
-    -   name: bots
-        permission: write
-
 labels:
     -   name: foo
         color: "336699"
