@@ -3,6 +3,10 @@ on:
         branches:
             - master
 
+collaborators:
+    -   username: mattsb42-admin-bot
+        permission: admin
+
 jobs:
     apply-settings:
         runs-on: ubuntu-latest
