@@ -1,0 +1,12 @@
+on:
+    push:
+        branches:
+            - master
+
+jobs:
+    apply-settings:
+        runs-on: ubuntu-latest
+        steps:
+            -   uses: mattsb42/repo-admin@init
+                with:
+                    github-token: ${{secrets.GITHUB_TOKEN}}

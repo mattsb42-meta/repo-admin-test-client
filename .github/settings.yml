@@ -1,0 +1,4 @@
+labels:
+    -   name: foo
+        color: 336699
+        description: oh noes!
