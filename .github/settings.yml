@@ -1,6 +1,6 @@
 repository:
     description: What ever could this be?
-    url: https://github.com/mattsb42/repo-admin
+    homepage: https://github.com/mattsb42/repo-admin
 
 collaborators:
     -   username: mattsb42-admin-bot
