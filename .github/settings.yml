@@ -1,3 +1,6 @@
+repository:
+    description: What ever could this be?
+
 labels:
     -   name: foo
         color: "336699"
