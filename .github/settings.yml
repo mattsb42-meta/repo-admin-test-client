@@ -9,6 +9,3 @@ labels:
     -   name: foo
         color: "336699"
         description: oh noes!
-    -   name: bar
-        color: "339933"
-        description: oh yes!
