@@ -7,6 +7,7 @@ jobs:
     apply-settings:
         runs-on: ubuntu-latest
         steps:
+            -   uses: actions/checkout@v2
             -   uses: mattsb42/repo-admin@init
                 with:
                     github-token: ${{secrets.GITHUB_TOKEN}}
