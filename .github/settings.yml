@@ -1,6 +1,10 @@
 repository:
     description: What ever could this be?
 
+collaborators:
+    -   username: mattsb42-admin-bot
+        permission: admin
+
 labels:
     -   name: foo
         color: "336699"
