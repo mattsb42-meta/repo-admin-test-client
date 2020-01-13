@@ -11,4 +11,3 @@ jobs:
             -   uses: mattsb42/repo-admin@init
                 with:
                     github-token: ${{secrets.DAS_UBER_TOKEN}}
-                    debug: true
