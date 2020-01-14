@@ -6,7 +6,9 @@ collaborators:
     -   username: mattsb42-admin-bot
         permission: admin
 
-teams: []
+teams:
+    -   name: bots
+        permission: triage
 
 labels:
     -   name: foo
