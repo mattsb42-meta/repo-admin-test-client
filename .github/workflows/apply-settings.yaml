@@ -8,7 +8,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             -   uses: actions/checkout@v2
-            -   uses: mattsb42/repo-admin@init
+            -   uses: mattsb42/repo-admin@fix
                 with:
                     github-token: ${{secrets.DAS_UBER_TOKEN}}
                     debug: true
